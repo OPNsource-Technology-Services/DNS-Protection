@@ -3,3 +3,5 @@
 ||hostname.bind^$important
 ||sdk.split.io^$important
 ||self.events.data.microsoft.com^$important
+||telemetry-ingestion.ap-sydney-1.oraclecloud.com^$important
+||localhost^$important
