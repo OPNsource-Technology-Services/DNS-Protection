@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>TLS</string>
+					<key>ServerName</key>
+					<string>dns.opnsource.com.au</string>
+				</dict>
+				<key>Name</key>
+				<string>DoT OPNsource Technology Services</string>
+				<key>PayloadDescription</key>
+				<string>Configures device to use OPNsource DNS Solutions</string>
+				<key>PayloadDisplayName</key>
+				<string>DoT OPNsource Technology Services</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.c9b0bece-c05b-4871-addc-f873c8856bb4</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>ca02e8c3-e51a-4228-817f-cd8b7473412d</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Configures device to use OPNsource DNS Solutions</string>
+		<key>PayloadDisplayName</key>
+		<string>DoT OPNsource Technology Services</string>
+		<key>PayloadIdentifier</key>
+		<string>3afb3609-1551-45b9-8e8d-1b411ff318ca</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>9722d257-0b3e-4e5d-9038-74f91c284c49</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
