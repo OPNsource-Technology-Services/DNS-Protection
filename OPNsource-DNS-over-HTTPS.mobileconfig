@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>PayloadContent</key>
+		<array>
+			<dict>
+				<key>DNSSettings</key>
+				<dict>
+					<key>DNSProtocol</key>
+					<string>HTTPS</string>
+					<key>ServerName</key>
+					<string>dns.opnsource.com.au</string>
+					<key>ServerURL</key>
+					<string>https://dns.opnsource.com.au/dns-query</string>
+				</dict>
+				<key>Name</key>
+				<string>OPNsource DNS over HTTPS</string>
+				<key>PayloadDescription</key>
+				<string>Configures device to use OPNsource Encrypted DNS over HTTPS</string>
+				<key>PayloadDisplayName</key>
+				<string>OPNsource DNS over HTTPS</string>
+				<key>PayloadIdentifier</key>
+				<string>com.apple.dnsSettings.managed.65bcb940-c4c8-4f0c-bfbf-658fd53f919a</string>
+				<key>PayloadType</key>
+				<string>com.apple.dnsSettings.managed</string>
+				<key>PayloadUUID</key>
+				<string>6bad6529-7019-4a28-9527-5313c9f53bed</string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+		<key>PayloadDescription</key>
+		<string>Adds OPNsource DNS to Big Sur and iOS 14 or newer systems</string>
+		<key>PayloadDisplayName</key>
+		<string>OPNsource DNS over HTTPS</string>
+		<key>PayloadIdentifier</key>
+		<string>eb1ffaa8-21d6-47ae-98e7-10ef70fef7bd</string>
+		<key>PayloadRemovalDisallowed</key>
+		<false/>
+		<key>PayloadType</key>
+		<string>Configuration</string>
+		<key>PayloadUUID</key>
+		<string>53ed44c9-fd38-4fc9-8dc2-62cf52f2c750</string>
+		<key>PayloadVersion</key>
+		<integer>1</integer>
+	</dict>
+</plist>
