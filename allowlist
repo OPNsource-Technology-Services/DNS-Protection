@@ -187,7 +187,11 @@ internetbadguys.com
 @@||aria.microsoft.com^
 @@||events.data.microsoft.com^
 @@||bnc.lt^
-@@||www.googleadservices.com^$important    ## Google Search Ads
-@@||clickserve.dartsearch.net^$important   ## Google Search Ads
-@@||ad.doubleclick.net^$important          ## Google Search Ads
-@@||vidembed.cc^$important                 ## Video player in many online website
+
+## Google Search Ads
+@@||www.googleadservices.com^$important  
+@@||clickserve.dartsearch.net^$important   
+@@||ad.doubleclick.net^$important          
+
+## Video player in many online website
+@@||vidembed.cc^$important                
