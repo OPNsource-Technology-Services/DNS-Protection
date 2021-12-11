@@ -13,11 +13,11 @@
 					<string>dns.opnsource.com.au</string>
 				</dict>
 				<key>Name</key>
-				<string>DoT OPNsource Technology Services</string>
+				<string>OPNsource DNS over TLS</string>
 				<key>PayloadDescription</key>
-				<string>Configures device to use OPNsource DNS Solutions</string>
+				<string>Configures device to use OPNsource Encrypted DNS over TLS</string>
 				<key>PayloadDisplayName</key>
-				<string>DoT OPNsource Technology Services</string>
+				<string>OPNsource DNS over TLS</string>
 				<key>PayloadIdentifier</key>
 				<string>com.apple.dnsSettings.managed.c9b0bece-c05b-4871-addc-f873c8856bb4</string>
 				<key>PayloadType</key>
@@ -29,9 +29,9 @@
 			</dict>
 		</array>
 		<key>PayloadDescription</key>
-		<string>Configures device to use OPNsource DNS Solutions</string>
+		<string>Adds OPNsource DNS to Big Sur and iOS 14 or newer systems</string>
 		<key>PayloadDisplayName</key>
-		<string>DoT OPNsource Technology Services</string>
+		<string>OPNsource DNS over TLS</string>
 		<key>PayloadIdentifier</key>
 		<string>3afb3609-1551-45b9-8e8d-1b411ff318ca</string>
 		<key>PayloadRemovalDisallowed</key>
